@@ -1,0 +1,658 @@
+Country;Area;WebsiteName;WebsiteURL;Type
+USA;National;CNBC;cnbc.com;BU
+USA;National;Fox Business Network;foxbusiness.comindex.html;BU
+USA;National;E;eonline.com;EN
+USA;National;ABC;abcnews.go.com;GI
+USA;National;America's Radio News Network;americasradionewsnetwork.com;GI
+USA;National;C Span;c-span.org;GI
+USA;National;CBS;cbsnews.com;GI
+USA;National;CNN;us.cnn.com;GI
+USA;National;Fox News;foxnews.com;GI
+USA;National;MSNBC;msnbc.com;GI
+USA;National;NPR;npr.org;GI
+USA;National;One America News Network;oann.com;GI
+USA;National;PBS News Hour;pbs.org;GI
+USA;National;Univision;univision.com;GI
+USA;National;Discovery;dsc.discovery.com;ST
+USA;National;CBS Sports;cbssports.com;SP
+USA;National;ESPN;espn.go.com;SP
+USA;National;Fox Sports;msn.foxsports.com;SP
+USA;National;NBC;nbcsports.msnbc.com;SP
+USA;National;Benzinga;benzinga.com;BU
+USA;National;Biz Journals;bizjournals.com;BU
+USA;National;Bloomberg;bloomberg.com;BU
+USA;National;Business Insider;businessinsider.com;BU
+USA;National;International Business Times;ibtimes.com;BU
+USA;National;Kapitall;wire.kapitall.com;BU
+USA;National;Market Watch;marketwatch.com;BU
+USA;National;Quartz;qz.com;BU
+USA;National;RTT News;rttnews.com;BU
+USA;National;Street;thestreet.com;BU
+USA;National;USA Business Review;businessreviewusa.com;BU
+USA;National;Yahoo Finance;https:;BU
+USA;National;Zero Hedge;zerohedge.com;BU
+USA;National;Access Hollywood;accesshollywood.com;EN
+USA;National;Elite Daily;elitedaily.com;EN
+USA;National;Eur Web;eurweb.com;EN
+USA;National;Jezebel;jezebel.com;EN
+USA;National;Radar Online;radaronline.com;EN
+USA;National;TMZ;tmz.com;EN
+USA;National;Upbeat;2upbeatmag.com;EN
+USA;National;Wrap;thewrap.com;EN
+USA;National;X17 Online;x17online.com;EN
+USA;National;America RU;americaru.com;ET
+USA;National;Antena 305;antena305.com;ET
+USA;National;Black Electorate;blackelectorate.com;ET
+USA;National;Huffington Post Black Voices;huffingtonpost.comblack-voices;ET
+USA;National;Huffington Post Voces;voces.huffingtonpost.com;ET
+USA;National;Rez Net;reznetnews.org;ET
+USA;National;Root;theroot.com;ET
+USA;National;1st Headlines;1stheadlines.com;GI
+USA;National;20 Minutos;20minutos.com;GI
+USA;National;Agonist;agonist.org;GI
+USA;National;Allegiant;theallegiant.com;GI
+USA;National;Alltop;alltop.com;GI
+USA;National;Alter Net;alternet.org;GI
+USA;National;American Independent;americanindependent.com;GI
+USA;National;American News;americannews.com;GI
+USA;National;American Reporter;american-reporter.com;GI
+USA;National;An Hour Ago;anhourago.us;GI
+USA;National;Anti Media;theantimedia.com;GI
+USA;National;Antiwar;antiwar.com;GI
+USA;National;AOL;aol.com;GI
+USA;National;Axcess News;axcessnews.com;GI
+USA;National;Big News Network;bignewsnetwork.com;GI
+USA;National;Blaze;theblaze.com;GI
+USA;National;Breaking News;breakingnews.com;GI
+USA;National;Breitbart;breitbart.com;GI
+USA;National;Brief Synopsis;briefsynopsis.com;GI
+USA;National;Buzz Feed;buzzfeed.com;GI
+USA;National;Buzz Tracker;buzztracker.org;GI
+USA;National;Buzzle;buzzle.com;GI
+USA;National;CNS News;cnsnews.com;GI
+USA;National;Congoo;congoo.com;GI
+USA;National;Daily Beast;thedailybeast.com;GI
+USA;National;Daily Caller;dailycaller.com;GI
+USA;National;Daily Dot;dailydot.com;GI
+USA;National;Daily Kos;dailykos.com;GI
+USA;National;Daily Signal;dailysignal.com;GI
+USA;National;Daily Source;dailysource.org;GI
+USA;National;Daily US News;dailynewsus.com;GI
+USA;National;Daylife;daylife.com;GI
+USA;National;Drudge Report;drudgereport.com;GI
+USA;National;E Flux Media;efluxmedia.com;GI
+USA;National;Excite;news.excite.com;GI
+USA;National;Fact Check;factcheck.org;GI
+USA;National;Fark;fark.com;GI
+USA;National;Five Thirty Eight;fivethirtyeight.com;GI
+USA;National;Fusion;fusion.net;GI
+USA;National;Gawker;gawker.com;GI
+USA;National;Google;https:;GI
+USA;National;Google;https:;GI
+USA;National;Hot Air;hotair.com;GI
+USA;National;Hot Joints;thehotjoints.com;GI
+USA;National;Huffington Post;huffingtonpost.com?country=US;GI
+USA;National;I Have Net;ihavenet.com;GI
+USA;National;Ideal Media;idealmedia.com;GI
+USA;National;Inquisitr;inquisitr.com;GI
+USA;National;Intercept;https:;GI
+USA;National;Lexis Nexis;lexisnexis.comnews;GI
+USA;National;Mashable;mashable.com;GI
+USA;National;Maximum Edge;maximumedge.com;GI
+USA;National;Media Chat;mediachat.net;GI
+USA;National;Mic;mic.com;GI
+USA;National;Mint Press News;mintpressnews.com;GI
+USA;National;Monsters and Critics;monstersandcritics.com;GI
+USA;National;MSN;msn.comen-us;GI
+USA;National;MSN;msn.comes-us;GI
+USA;National;National Memo;nationalmemo.com;GI
+USA;National;New West;newwest.net;GI
+USA;National;News and Java;newsandjava.com;GI
+USA;National;News at the Speed of Light;newsblogs.blogspot.com;GI
+USA;National;News Blaze;newsblaze.com;GI
+USA;National;News Busters;newsbusters.org;GI
+USA;National;News Dump;newsdump.com;GI
+USA;National;News Hijack;newshijack.net;GI
+USA;National;News Is Free;newsisfree.com;GI
+USA;National;News Mantis;newsmantis.com;GI
+USA;National;News Max;newsmax.com;GI
+USA;National;News Ringer;newsringer.com;GI
+USA;National;News Telegram;newstelegram.com;GI
+USA;National;News Vine;newsvine.com;GI
+USA;National;News with Bob;newswithbob.com;GI
+USA;National;News Zoom;newszoom.com;GI
+USA;National;Newsweek;newsweek.com;GI
+USA;National;Newsy;newsy.com;GI
+USA;National;Next Big Story;thenextbigstory.com;GI
+USA;National;Observer;observer.com;GI
+USA;National;Online Journal;onlinejournal.com;GI
+USA;National;Op Ed News;opednews.com;GI
+USA;National;Opposing Views;opposingviews.com;GI
+USA;National;Patriot Post;patriotpost.us;GI
+USA;National;PJ Media;https:;GI
+USA;National;Political Simpleton;politicalsimpleton.com;GI
+USA;National;Politicker;politicker.com;GI
+USA;National;Post Chronicle;postchronicle.com;GI
+USA;National;PR Log;prlog.org;GI
+USA;National;Pure Politics;purepolitics.com;GI
+USA;National;Raw Story;rawstory.com;GI
+USA;National;Real Clear Politics;realclearpolitics.com;GI
+USA;National;Real News Network;therealnews.com;GI
+USA;National;Red State;redstate.com;GI
+USA;National;Salon;salon.com;GI
+USA;National;Schwartz Report;schwartzreport.net;GI
+USA;National;Slate;slate.com;GI
+USA;National;Socratic News;socraticnews.comAll;GI
+USA;National;Speak Out;speakout.com;GI
+USA;National;Stateline;pewstates.org;GI
+USA;National;Taegan Goddard's Political Wire;politicalwire.com;GI
+USA;National;Terra;terra.com;GI
+USA;National;Third Report;thirdreport.com;GI
+USA;National;Times of Earth;timesofearth.com;GI
+USA;National;TMN Talk Media News;talkmedianews.com;GI
+USA;National;Townhall;townhall.com;GI
+USA;National;TPM;talkingpointsmemo.com;GI
+USA;National;Trans World News;transworldnews.com;GI
+USA;National;Truth Out;truth-out.org;GI
+USA;National;Upworthy;upworthy.com;GI
+USA;National;US Daily;usdaily.com;GI
+USA;National;U.S. News Hub;newshub.us;GI
+USA;National;USA Focus;usa-focus.com;GI
+USA;National;USA. Headlines;usaheadlines.com;GI
+USA;National;Vice;vice.comen_us;GI
+USA;National;Views and Previews;viewsandpreviews.com;GI
+USA;National;Vox;vox.com;GI
+USA;National;Washington Independent;washingtonindependent.com;GI
+USA;National;WND;wnd.com;GI
+USA;National;World News;wn.com;GI
+USA;National;World Pro News;worldpronews.com;GI
+USA;National;World Tribune;worldtribune.com;GI
+USA;National;Yahoo News;news.yahoo.com;GI
+USA;National;Yale Global Online;yaleglobal.yale.edu;GI
+USA;National;Armed Forces News Service;usafns.com;ML
+USA;National;C Net;news.cnet.com;ST
+USA;National;Recode;recode.net;ST
+USA;National;Talking New Media;talkingnewmedia.com;ST
+USA;National;Tech Talk;thetechherald.com;ST
+USA;National;ZD Net;zdnet.com;ST
+USA;National;Deadspin;deadspin.com;SP
+USA;National;Fansided;fansided.com;SP
+USA;National;Post Game;thepostgame.com;SP
+USA;National;Rant Sports;rantsports.com;SP
+USA;National;SB Nation;sbnation.com;SP
+USA;National;Scout;scout.com;SP
+USA;National;Sporting News;aol.sportingnews.com;SP
+USA;National;Sports on Earth;sportsonearth.com;SP
+USA;National;Yahoo Sports;sports.yahoo.com;SP
+USA;National;Yard Barker;yardbarker.com;SP
+USA;National;Barron's;online.barrons.comhome-page;BU
+USA;National;Business Week;businessweek.com;BU
+USA;National;Forbes;forbes.com;BU
+USA;National;Fortune;money.cnn.commagazines;BU
+USA;National;Money;money.cnn.com;BU
+USA;National;Smart Money;smartmoney.com;BU
+USA;National;Billboard;billboard.com;EN
+USA;National;Entertainment Weekly;ew.comew;EN
+USA;National;Hollywood Reporter;hollywoodreporter.com;EN
+USA;National;Hollywood Weekly;hollywoodweeklymagazine.com;EN
+USA;National;National Enquirer;nationalenquirer.com;EN
+USA;National;People;people.compeople;EN
+USA;National;Rolling Stone;rollingstone.com;EN
+USA;National;Star;radaronline.comstar;EN
+USA;National;Us;usmagazine.com;EN
+USA;National;American;american.com;GI
+USA;National;American Profile;americanprofile.com;GI
+USA;National;American Prospect;prospect.org;GI
+USA;National;American Spectator;spectator.org;GI
+USA;National;Atlantic Monthly;theatlantic.com;GI
+USA;National;Christian Science Monitor;csmonitor.com;GI
+USA;National;Contacto;contactomagazine.com;GI
+USA;National;Harper's;harpers.org;GI
+USA;National;Hill;thehill.com;GI
+USA;National;Mother Jones;motherjones.com;GI
+USA;National;Nation;thenation.com;GI
+USA;National;National Journal;nationaljournal.com;GI
+USA;National;National Review;nationalreview.com;GI
+USA;National;New Republic;tnr.com;GI
+USA;National;New Yorker;newyorker.com;GI
+USA;National;Parade;parade.com;GI
+USA;National;Reason;reason.com;GI
+USA;National;Roll Call;rollcall.com;GI
+USA;National;Saturday Evening Post;saturdayeveningpost.com;GI
+USA;National;Time;time.comtime;GI
+USA;National;U.S. News and World Report;usnews.com;GI
+USA;National;USA Weekend;usaweekend.com;GI
+USA;National;Vanity Fair;vanityfair.com;GI
+USA;National;Week;theweek.com;GI
+USA;National;Weekly Standard;weeklystandard.com;GI
+USA;National;Red Herring;redherring.com;ST
+USA;National;Scientific American;scientificamerican.com;ST
+USA;National;Wired;wired.com;ST
+USA;National;Sports Illustrated;sportsillustrated.cnn.com;SP
+USA;National;Black Business Journal;bbjonline.com;BU
+USA;National;Investor's Business Daily;investors.comdefault.htm;BU
+USA;National;Wall Street Journal;https:;BU
+USA;National;Variety;variety.comHome;EN
+USA;National;Bulgaria Sega;bulgariasega.com;ET
+USA;National;Hoy;vivelohoy.com;ET
+USA;National;Indian Country Today;indiancountrytoday.com;ET
+USA;National;Native American Times;nativetimes.com;ET
+USA;National;News from Indian Country;indiancountrynews.com;ET
+USA;National;Polish American Journal;polamjournal.com;ET
+USA;National;Romanian Meridian;meridianul.com;ET
+USA;National;Sing Tao;singtaousa.com;ET
+USA;National;World Journal;worldjournal.comwjenglishnews;ET
+USA;National;World Journal;worldjournal.com;ET
+USA;National;American Free Press;americanfreepress.net;GI
+USA;National;Examiner;examiner.com;GI
+USA;National;Guardian;theguardian.comus;GI
+USA;National;New York Times;nytimes.com;GI
+USA;National;Politico;politico.com;GI
+USA;National;USA Today;usatoday.com;GI
+USA;National;Washington Post;washingtonpost.com;GI
+USA;National;Air Force Times;airforcetimes.com;ML
+USA;National;Army Times;armytimes.com;ML
+USA;National;Marine Corps Times;marinetimes.com;ML
+USA;National;Navy Times;navytimes.com;ML
+USA;National;Stars and Stripes;stripes.com;ML
+USA;National;Onion;theonion.com;SR
+USA;National;National Catholic Register;ncregister.com;RL
+USA;National;National Catholic Reporter;ncronline.org;RL
+USA;National;Business Wire;businesswire.comportal;BU
+USA;National;Splash;splashnews.com;EN
+USA;National;24 7 Press Release;24-7pressrelease.com;GI
+USA;National;Associated Press;hosted.ap.org;GI
+USA;National;Associated Press;hosted.ap.org;GI
+USA;National;Creators Syndicate;creators.com;GI
+USA;National;Dolan Media Newswires;dolanmedianewswires.com;GI
+USA;National;EIN Press Wire;einpresswire.com;GI
+USA;National;McClatchy;mcclatchydc.com;GI
+USA;National;New York Times News Service and;https:;GI
+USA;National;PR Newswire;prnewswire.com;GI
+USA;National;Press Release 365;pressrelease365.com;GI
+USA;National;Reuters;reuters.com;GI
+USA;National;Scripps Howard News Service;shns.com;GI
+USA;National;Scripps News;scrippsnews.com;GI
+USA;National;UPI;upi.com;GI
+USA;National;World Jewish News Agency;worldjewishnewsagency.org;RL
+International;International;ABC News;abcnews.go.com;GI
+International;International;Al Jazeera;aljazeera.net;GI
+International;International;Al Jazeera;aljazeera.com;GI
+International;International;BBC;bbc.co.uk;GI
+International;International;BBC;bbc.co.uk;GI
+International;International;CBC;cbc.ca;GI
+International;International;CNN;arabic.cnn.com;GI
+International;International;CNN;edition.cnn.com;GI
+International;International;Euro News;arabic.euronews.com;GI
+International;International;Euro News;de.euronews.com;GI
+International;International;Euro News;gr.euronews.com;GI
+International;International;Euro News;euronews.com;GI
+International;International;Euro News;persian.euronews.com;GI
+International;International;Euro News;fr.euronews.com;GI
+International;International;Euro News;hu.euronews.com;GI
+International;International;Euro News;it.euronews.com;GI
+International;International;Euro News;pl.euronews.com;GI
+International;International;Euro News;pt.euronews.com;GI
+International;International;Euro News;ru.euronews.com;GI
+International;International;Euro News;es.euronews.com;GI
+International;International;Euro News;tr.euronews.com;GI
+International;International;Euro News;ua.euronews.com;GI
+International;International;PRI Public Radio International;pri.org;GI
+International;International;Voice of America;voanews.com;GI
+International;International;Alert Net;trust.org;GI
+International;International;Armed Politics;https:;GI
+International;International;EIN News;einnews.com;GI
+International;International;Frontera;https:;BU
+International;International;Global Post;globalpost.com;GI
+International;International;Global Trading;globaltrading.com;BU
+International;International;Great Reporter;greatreporter.com;GI
+International;International;I Have Net;ihavenet.com;GI
+International;International;In Depth News;indepthnews.net;GI
+International;International;INS News;insnews.org;GI
+International;International;Inside World;insideworld.com;GI
+International;International;Institute for War and Peace;https:;GI
+International;International;IRIN;irinnews.org;GI
+International;International;Klezio;klezio.com;GI
+International;International;La Specula;laspecula.com;GI
+International;International;Le Petit Journal;lepetitjournal.com;GI
+International;International;Mambolook;mambolook.com;GI
+International;International;Map Report;mapreport.com;GI
+International;International;NAM News Network;namnewsnetwork.org;GI
+International;International;NAM News Network;namnewsnetwork.org;GI
+International;International;NAM News Network;namnewsnetwork.org;GI
+International;International;News Mixx;newsmixx.com;GI
+International;International;News Now;newsnow.co.uk;GI
+International;International;One World;oneworld.org;GI
+International;International;Peace Link;peacelink.it;GI
+International;International;ReliefWeb;reliefweb.int;GI
+International;International;Topix;topix.com;GI
+International;International;Very Quiet News;veryquiet.com;GI
+International;International;WN;wn.com;GI
+International;International;World Folio;theworldfolio.com;GI
+International;International;World Photos;worldphotos.com;GI
+International;International;World Politics Review;worldpoliticsreview.com;GI
+International;International;World Pro News;worldpronews.com;GI
+International;International;World Tribune;worldtribune.com;GI
+International;International;World Weekly;theworldweekly.com;GI
+International;International;Yahoo;news.yahoo.com;GI
+International;International;Economist;economist.com;GI
+International;International;Guardian;theguardian.com;GI
+International;International;New York Times;international.nytimes.com;GI
+International;International;New York Times;cn.nytimes.com;GI
+International;International;Telegraph;telegraph.co.uk;GI
+International;International;Washington Post;washingtonpost.com;GI
+International;International;Associated Press;hosted.ap.org;GI
+International;International;Inter Press Service;ipsnews.de;GI
+International;International;Inter Press Service;ipsnews.net;GI
+International;International;Inter Press Service;ipsnoticias.net;GI
+International;International;Interfax;interfax.com;GI
+International;International;Reuters;ara.reuters.com;GI
+International;International;Reuters;reuters.com;GI
+India;National;Aaj Tak;aajtak.intoday.in;GI
+India;National;All India Radio;newsonair.com;GI
+India;National;APN;apnlive.com;GI
+India;National;APN;hindi.apnlive.com;GI
+India;National;BTV IN;btvin.com;BU
+India;National;CNBC TV18;moneycontrol.com;BU
+India;National;CNN IBN;ibnlive.in.com;GI
+India;National;DD News;ddinews.gov.in;GI
+India;National;DD News;ddinews.gov.in;GI
+India;National;ITV News India;itvnewsindia.com;GI
+India;National;NDTV;ndtv.com;GI
+India;National;NDTV Profit;profit.ndtv.com;BU
+India;National;News 18;https:;GI
+India;National;News 18;news18.com;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;https:;GI
+India;National;News 18;urdu.news18.com;GI
+India;National;News X;newsx.com;GI
+India;National;Times Now;timesnow.tv;GI
+India;National;Zee TV;zeenews.india.com;GI
+India;National;ABC Live;abclive.in;GI
+India;National;Agri Watch;agriwatch.com;AG
+India;National;All India News;allindianews.in;GI
+India;National;An Hour Ago;anhourago.in;GI
+India;National;Apna Samachar;apnasamachar.com;GI
+India;National;Emit Post;https:;GI
+India;National;Firstpost;firstpost.com;GI
+India;National;Google;https:;GI
+India;National;Google;https:;GI
+India;National;Google;https:;GI
+India;National;Google;https:;GI
+India;National;Google;https:;GI
+India;National;Headlines India;headlinesindia.mapsofindia.com;GI
+India;National;India Business Review;businessreviewindia.in;BU
+India;National;India Notes;indianotes.com;BU
+India;National;India Server;india-server.com;GI
+India;National;India Times;indiatimes.com;GI
+India;National;Indian Republic;theindianrepublic.com;GI
+India;National;International Business Times;ibtimes.co.in;BU
+India;National;IPA News Pack;ipanewspack.com;GI
+India;National;Jano Duniya;janoduniya.tv;GI
+India;National;Loktej;loktej.com;GI
+India;National;Meri News;merinews.com;GI
+India;National;News Morcha;english.newsmorcha.com;GI
+India;National;News Morcha;https:;GI
+India;National;News Now;newsnow.in;GI
+India;National;Newstrack India;newstrackindia.com;GI
+India;National;Nhatky;nhatky.in;GI
+India;National;Online Indian News;onlineindiannews.com;GI
+India;National;Post Pickle;postpickle.com;GI
+India;National;Prabhasakshi;prabhasakshi.com;GI
+India;National;Rediff;rediff.com;GI
+India;National;Samachar;samachar.com;GI
+India;National;Samachar;hindi.samachar.com;GI
+India;National;Samachar;kannada.samachar.com;GI
+India;National;Samachar;malayalam.samachar.com;GI
+India;National;Samachar;tamil.samachar.com;GI
+India;National;Samachar;telugu.samachar.com;GI
+India;National;Sify;sify.com;GI
+India;National;Swatantraawaz;swatantraawaz.com;GI
+India;National;This Is My India;thisismyindia.com;GI
+India;National;Wall Street Journal;https:;BU
+India;National;World News Every Day;worldnewseveryday.com;GI
+India;National;World Now;worldnow.in;GI
+India;National;World Snap;news.worldsnap.com;GI
+India;National;Yahoo;https:;GI
+India;Foreign;A India News;aindianews.com;GI
+India;Foreign;Bharat Observer;bharatobserver.com;GI
+India;Foreign;Daily India;dailyindia.com;GI
+India;Foreign;India's News;indiasnews.net;GI
+India;Foreign;Indusscitech;indusscitech.net;ST
+India;Foreign;Ivarta;ivarta.com;GI
+India;Foreign;Pan India News;panindianews.com;GI
+India;Foreign;Sumanasa;sumanasa.com;GI
+India;National;Business and Economy;businessandeconomy.org;BU
+India;National;Business Today;businesstoday.intoday.in;BU
+India;National;Business World;businessworld.in;BU
+India;National;Corporate India;corporateindia.biz;BU
+India;National;Day After;dayafterindia.com;GI
+India;National;Economic and Political Weekly;epw.in;GI
+India;National;Forbes India;forbesindia.com;BU
+India;National;Frontline;frontline.in;GI
+India;National;India Today;indiatoday.intoday.in;GI
+India;National;Northeast Today;northeasttoday.in;GI
+India;National;Outlook;outlookindia.com;GI
+India;National;Panchajanya;panchjanya.com;GI
+India;National;Sport Star;sportstaronnet.com;SP
+India;National;Swarajya;swarajyamag.com;GI
+India;National;Tehelka;tehelka.com;GI
+India;National;Tehelka;tehelkahindi.com;GI
+India;National;Week;the-week.com;GI
+India;National;Amar Ujala;amarujala.com;GI
+India;National;Ananda Bazar Patrika;anandabazar.com;GI
+India;National;Daily Thanthi;dailythanthi.com;GI
+India;National;Dainik Bhaskar;bhaskar.com;GI
+India;National;Dainik Jagran;jagran.com;GI
+India;National;Deccan Chronicle;deccanchronicle.com;GI
+India;National;Dinakaran;dinakaran.com;GI
+India;National;Dinathanthi;dailythanthi.com;GI
+India;National;Divya Bhaskar;divyabhaskar.co.in;GI
+India;National;Eenadu;eenadu.net;GI
+India;National;Gujarat Samachar;gujaratsamachar.com;GI
+India;National;Hari Bhoomi;haribhoomi.com;GI
+India;National;Hindu;thehindu.com;GI
+India;National;Hindustan Dainik;livehindustan.com;GI
+India;National;Hindustan Times;hindustantimes.com;GI
+India;National;Lokmat;lokmat.com;GI
+India;National;Malayala Manorama;manoramaonline.com;GI
+India;National;Mathrubhumi;mathrubhumi.com;GI
+India;National;Patrika;patrika.com;GI
+India;National;Punjab Kesari;punjabkesari.in;GI
+India;National;Sakal;esakal.com;GI
+India;National;Sandesh;sandesh.com;GI
+India;National;Times of India;timesofindia.indiatimes.com;GI
+India;National;Wall Street Journal;wsj.com;BU
+India;National;Al Hindelyom;alhindelyom.com;GI
+India;National;Indo Asian News Service;ians.in;GI
+India;National;Indo Asian News Service;ianshindi.com;GI
+India;National;NNS;nnsonline.com;AG
+India;National;Press Trust of India;ptinews.com;GI
+India;National;Press Trust of India;bhasha.ptinews.com;GI
+India;National;United News of India;uniindia.com;GI
+India;National;United News of India;univarta.com;GI
+India;National;Voice of Millions;thevoiceofmillions.com;GI
+India;Foreign;Reuters;in.reuters.com;GI
+;;;;
+New Zealand;National;Maori Television;www.maoritelevision.com/;ET
+New Zealand;National;Maori Television;www.maoritelevision.com/mi/;MI
+New Zealand;National;News Hub;www.newshub.co.nz/;GI
+New Zealand;National;Newstalk ZB;www.newstalkzb.co.nz/;GI
+New Zealand;National;Radio Live;www.radiolive.co.nz/;GI
+New Zealand;National;Radio New Zealand;www.radionz.co.nz/;GI
+New Zealand;National;Radio Sport;www.radiosport.co.nz/;SP
+New Zealand;National;TVNZ;www.tvnz.co.nz/;GI
+New Zealand;National;E Tangata;e-tangata.co.nz/;ET
+New Zealand;National;Google;news.google.com/?hl=en-NZ&gl=NZ&ceid=NZ:en;GI
+New Zealand;National;MSN;www.msn.com/en-nz/news;GI
+New Zealand;National;New Zealand News;www.newzealandnews.net/;GI
+New Zealand;National;Newsie;www.newsie.co.nz/?english;GI
+New Zealand;National;Newsie;www.newsie.co.nz/?tereo;GI
+New Zealand;National;Newsroom;www.newsroom.co.nz/;GI
+New Zealand;National;Newswire;www.newswire.co.nz/;GI
+New Zealand;National;NZ City;home.nzcity.co.nz/;GI
+New Zealand;National;NZ Edge;www.nzedge.com/;GI
+New Zealand;National;Scoop;www.scoop.co.nz/;GI
+New Zealand;National;Stuff;www.stuff.co.nz/;GI
+New Zealand;National;Yahoo;nz.news.yahoo.com/;GI
+New Zealand;National;NZ Business;nzbusiness.co.nz/;BU
+New Zealand;National;Dominion Post;www.stuff.co.nz/dominion-post/;GI
+New Zealand;National;Farmers Weekly;farmersweekly.co.nz/;AG
+New Zealand;National;National Business Review;www.nbr.co.nz/;BU
+New Zealand;National;New Zealand Herald;www.nzherald.co.nz/;GI
+New Zealand;National;NZ Catholic;www.nzcatholic.org.nz/;RL
+New Zealand;National;Press;www.stuff.co.nz/the-press/;GI
+New Zealand;National;Sunday News;www.stuff.co.nz/sunday-news/;GI
+New Zealand;National;Sunday Star Times;www.stuff.co.nz/sunday-star-times/;GI
+New Zealand;Auckland;Auckland News;www.aucklandnews.net/;GI
+New Zealand;Auckland;Auckland Now;www.stuff.co.nz/auckland/;GI
+New Zealand;Auckland;Aucklander;www.nzherald.co.nz/aucklander/news/headlines.cfm?c_id=1503378;GI
+New Zealand;Auckland;Chinese Herald;www.chinesenzherald.co.nz/;ET
+New Zealand;Auckland;Epoch Times;e-paper.epochtimes.com/NewZealand/;ET
+New Zealand;Auckland;Goodday;goodday.co.nz/;ET
+New Zealand;Auckland;Kaniva Tonga;kanivatonga.nz/;ET
+New Zealand;Auckland;Korea Post;www.nzkoreapost.com/;ET
+New Zealand;Auckland;National Business Review;www.nbr.co.nz/;BU
+New Zealand;Auckland;New Zealand Herald;www.nzherald.co.nz/;GI
+New Zealand;Auckland;New Zealand Korean Sunday Times;www.sundaytimes.co.nz/;ET
+New Zealand;Auckland;Our Auckland;ourauckland.aucklandcouncil.govt.nz/;GO
+New Zealand;Auckland;Punjabi Herald;www.punjabiherald.co.nz/;ET
+New Zealand;Auckland;Samoa Times;www.samoatimes.co.nz/;ET
+New Zealand;Auckland;Sunday News;www.stuff.co.nz/sunday-news/;GI
+New Zealand;Auckland;Sunday Star Times;www.stuff.co.nz/sunday-star-times/;GI
+New Zealand;Auckland;Verve;vervemagazine.co.nz/;GI
+New Zealand;Auckland (Central);Central Leader;www.stuff.co.nz/auckland/local-news/central-leader/;GI
+New Zealand;Auckland (City Harbour);Auckland City Harbour News;www.stuff.co.nz/auckland/local-news/auckland-city-harbour-news/;GI
+New Zealand;Auckland (East and Bays);East and Bays Courier;www.stuff.co.nz/auckland/local-news/east-bays-courier/;GI
+New Zealand;Auckland (Eastern);Eastern Courier;www.stuff.co.nz/auckland/local-news/eastern-courier/;GI
+New Zealand;Auckland (Nor West);Nor West News;www.stuff.co.nz/auckland/local-news/nor-west-news/;GI
+New Zealand;Auckland (North Harbour);North Harbour News;www.stuff.co.nz/auckland/local-news/north-harbour-news/;GI
+New Zealand;Auckland (North Shore);North Shore Times;www.stuff.co.nz/auckland/local-news/north-shore-times/;GI
+New Zealand;Auckland (Western);Western Leader;www.stuff.co.nz/auckland/local-news/western-leader/;GI
+New Zealand;Beachlands;Pohutukawa Coast Times;www.pctimes.co.nz/;GI
+New Zealand;Botany Downs;Botany and Ormiston Times;www.times.co.nz/;GI
+New Zealand;Devonport;Devonport Flagstaff;devonportflagstaff.co.nz/;GI
+New Zealand;Howick;Howick and Pakuranga Times;www.times.co.nz/;GI
+New Zealand;Manukau;Manukau Courier;www.stuff.co.nz/auckland/local-news/manukau-courier/;GI
+New Zealand;Papakura;Papakura Courier;www.stuff.co.nz/auckland/local-news/papakura-courier/;GI
+New Zealand;Ponsonby;Ponsonby News;ponsonbynews.co.nz/;GI
+New Zealand;Rodney;Rodney Times;www.stuff.co.nz/auckland/local-news/rodney-times/;GI
+New Zealand;Waiheke Island;Gulf News;www.waihekegulfnews.co.nz/;GI
+New Zealand;Waiuku;Post;www.thepost.nz/;GI
+New Zealand;Katikati;Katikati Advertiser;katikatiadvertiser.communitynews.co.nz/;GI
+New Zealand;Rotorua;Rotorua Daily Post;www.nzherald.co.nz/rotorua-daily-post/news/headlines.cfm?c_id=1503438;GI
+New Zealand;Rotorua;Rotorua Weekender;rotoruaweekender.communitynews.co.nz/;GI
+New Zealand;Tauranga;Bay News;baynews.communitynews.co.nz/;GI
+New Zealand;Tauranga;Bay of Plenty Times;www.nzherald.co.nz/bay-of-plenty-times/news/headlines.cfm?c_id=1503343;GI
+New Zealand;Tauranga;Coast and Country News;www.coastandcountrynews.co.nz/;AG
+New Zealand;Tauranga;Weekend Sun;www.sunlive.co.nz/;GI
+New Zealand;Te Puke;Te Puke Times;tepuketimes.communitynews.co.nz/;GI
+New Zealand;Whakatane;News Whakatane;newswhakatane.nz/;GI
+New Zealand;Whakatane;One Double X;www.1xx.co.nz/;GI
+New Zealand;Amberley;North Canterbury News;www.ncnews.co.nz/;GI
+New Zealand;Askburton;Ashburton Courier;www.ashburtoncourier.co.nz/;GI
+New Zealand;Ashburton;Ashburton Guardian;www.guardianonline.co.nz/;GI
+New Zealand;Christchurch;Christchurch Mail;www.neighbourly.co.nz/publication/christchurch-mail;GI
+New Zealand;Christchurch;CTV;www.star.kiwi/ctv/;GI
+New Zealand;Christchurch;Press;www.stuff.co.nz/the-press/;GI
+New Zealand;Christchurch;Star;www.star.kiwi/;GI
+New Zealand;Christchurch;Star;www.star.kiwi/the-star-2/;GI
+New Zealand;Christchurch (Bay Harbour);Bay Harbour News;www.star.kiwi/bay-harbour-news/;GI
+New Zealand;Christchurch (Eastern);Pegasus Post;www.star.kiwi/pegasus-post/;GI
+New Zealand;Christchurch (NorWest);Nor West News;www.star.kiwi/norwest-news/;GI
+New Zealand;Christchurch Southern);Southern View;www.star.kiwi/southern-view/;GI
+New Zealand;Christchurch (Western);Western News;www.star.kiwi/western-news/;GI
+New Zealand;Darfield;Malvern News;www.malvernnews.co.nz/malvern-news/;GI
+New Zealand;Lincoln;Canterbury Farming;issuu.com/canterburyfarming5;AG
+New Zealand;Rolleston;Rolleston News;www.malvernnews.co.nz/rolleston-news/;GI
+New Zealand;Rolleston;Selwyn Times;www.star.kiwi/selwyn-times/;GI
+New Zealand;Timaru;Central Rural Life;www.odt.co.nz/source/central-rural-life;AG
+New Zealand;Timaru;Courier;www.timarucourier.co.nz/;GI
+New Zealand;Timaru;Timaru Herald;www.stuff.co.nz/timaru-herald/;GI
+New Zealand;Gisborne;89FM;gmc.co.nz/;GI
+New Zealand;Gisborne;Gisborne Herald;www.gisborneherald.co.nz/;GI
+New Zealand;Hastings;Hastings Leader;hastingsleader.communitynews.co.nz/;GI
+New Zealand;Hastings;Hawke's Bay Today;www.nzherald.co.nz/hawkes-bay-today/news/headlines.cfm?c_id=1503462;GI
+New Zealand;Havelock North;Havelock North Village Press;havelocknorthvillagepress.communitynews.co.nz/;GI
+New Zealand;Napier;Napier Courier;napiercourier.communitynews.co.nz/;GI
+New Zealand;Waipukurau;CHB Mail;chbmail.communitynews.co.nz/;GI
+New Zealand;Wairoa;Wairoa Star;www.wairoastar.co.nz/;GI
+New Zealand;Dannevirke;Bush Telegraph;bushtelegraph.communitynews.co.nz/;GI
+New Zealand;Levin;Horowhenua Chronicle;horowhenuachronicle.communitynews.co.nz/;GI
+New Zealand;Levin;Horowhenua Chronicle;www.nzherald.co.nz/horowhenua-chronicle/news/headlines.cfm?c_id=1503788;GI
+New Zealand;Levin;Horowhenua Mail;www.stuff.co.nz/dominion-post/news/local-papers/horowhenua-mail/;GI
+New Zealand;Ohakune;Manawatu Standard;www.stuff.co.nz/manawatu-standard/;GI
+New Zealand;Palmerston North;Manawatu Guardian;manawatuguardian.communitynews.co.nz/;GI
+New Zealand;Palmerston North;Manawatu Guardian;www.nzherald.co.nz/manawatu-guardian/news/headlines.cfm?c_id=1503567;GI
+New Zealand;Palmerston North;Ruapehu Bulletin;www.ohakune.info/;GI
+New Zealand;Wanganui;Wanganui Chronicle;www.nzherald.co.nz/wanganui-chronicle/news/headlines.cfm?c_id=1503426;GI
+New Zealand;Wanganui;Wanganui Midweek;wanganuimidweek.communitynews.co.nz/;GI
+New Zealand;Blenheim;Blenheim Sun;blenheimsun.co.nz/;GI
+New Zealand;Blenheim;Marlborough Express;www.stuff.co.nz/marlborough-express/;GI
+New Zealand;Nelson;Nelson Mail;www.stuff.co.nz/nelson-mail/;GI
+New Zealand;Nelson;Nelson Weekly;nelsonweekly.co.nz/;GI
+New Zealand;Kaikohe;Northern News;www.stuff.co.nz/auckland/local-news/northland/northern-news/;GI
+New Zealand;Kaitaia;Northland Age;www.nzherald.co.nz/northland-age/news/headlines.cfm?c_id=1503402;GI
+New Zealand;Mangawhai;Mangawhai Focus;www.mangawhaifocus.co.nz/;GI
+New Zealand;Whangarei;Northern Advocate;www.nzherald.co.nz/northern-advocate/news/headlines.cfm?c_id=1503450;GI
+New Zealand;Whangarei;Whangarei Report;whangareireport.communitynews.co.nz/;GI
+New Zealand;Alexandra;News;www.thenews.co.nz/;GI
+New Zealand;Cromwell;Cromwell Bulletin;issuu.com/cromwellbulletin;GI
+New Zealand;Dunedin;39 Southern Television;www.channel39.co.nz/;GI
+New Zealand;Dunedin;Otago Daily Times;www.odt.co.nz/;GI
+New Zealand;Dunedin;Southern Rural Life;www.odt.co.nz/source/southern-rural-life;AG
+New Zealand;Dunedin;Star;www.thestar.co.nz/;GI
+New Zealand;Oamaru;Oamaru Mail;www.oamarumail.co.nz/;GI
+New Zealand;Queenstown;Mountain Scene;www.scene.co.nz/;GI
+New Zealand;Gore;Ensign;www.theensign.co.nz/;GI
+New Zealand;Gore;News Link;www.neighbourly.co.nz/publication/newslink;GI
+New Zealand;Invercargill;Eye;www.neighbourly.co.nz/publication/the-eye;GI
+New Zealand;Invercargill;Southland Express;www.southlandexpress.co.nz/;GI
+New Zealand;Invercargill;Southland Times;www.stuff.co.nz/southland-times/;GI
+New Zealand;Te Anau;Advocate South;www.thesouthlandapp.co.nz/advocatesouth/;GI
+New Zealand;New Plymouth;Taranaki Daily News;www.stuff.co.nz/taranaki-daily-news/;GI
+New Zealand;Oakura;Oakura Messenger;thetom.co.nz/;GI
+New Zealand;Stratford;Stratford Press;stratfordpress.communitynews.co.nz/;GI
+New Zealand;Stratford;Stratford Press;www.nzherald.co.nz/stratford-press/news/headlines.cfm?c_id=1503390;GI
+New Zealand;Motueka;Guardian;www.guardianmotueka.co.nz/;GI
+New Zealand;Richmond;Waimea Weekly;www.waimeaweekly.co.nz/;GI
+New Zealand;Takaka;G.B. Weekly;www.gbweekly.co.nz/;GI
+New Zealand;Cambridge;Cambridge News;www.cambridgenews.nz/;GI
+New Zealand;Hamilton;Hamilton News;www.hamiltonnews.communitynews.co.nz/;GI
+New Zealand;Hamilton;Hamilton News;www.nzherald.co.nz/hamilton-news/news/headlines.cfm?c_id=1503366;GI
+New Zealand;Hamilton;Waikato News;hamiltonmetronews.communitynews.co.nz/;GI
+New Zealand;Hamilton;Waikato Times;www.stuff.co.nz/waikato-times/;GI
+New Zealand;Raglan;Raglan Chronicle;www.raglanchronicle.co.nz/;GI
+New Zealand;Taupo;Taupo and Turangi Weekender;taupoturangiweekender.communitynews.co.nz/;GI
+New Zealand;Te Awamutu;Te Awamutu Courier;teawamutucourier.communitynews.co.nz/;GI
+New Zealand;Te Awamutu;Te Awamutu Courier;www.nzherald.co.nz/te-awamutu-courier/news/headlines.cfm?c_id=1504325;GI
+New Zealand;Te Awamatu;Waipa Post;waipapost.communitynews.co.nz/;GI
+New Zealand;Te Kuiti;Waitomo News;waitomonews.co.nz/;GI
+New Zealand;Waihi;Waihi Leader;waihileader.communitynews.co.nz/;GI
+New Zealand;Whangamata;Coastal News;coastalnews.communitynews.co.nz/;GI
+New Zealand;Whitianga;Mercury Bay Informer;www.theinformer.co.nz/;GI
+New Zealand;Lower Hutt;Hutt News;www.stuff.co.nz/dominion-post/news/local-papers/hutt-news/;GI
+New Zealand;Eastbourne;Eastbourne Herald;issuu.com/theeastbourneherald;GI
+New Zealand;Kapiti;Kapiti News;kapitinews.communitynews.co.nz/;GI
+New Zealand;Kapiti;Kapiti News;www.nzherald.co.nz/kapiti-news/news/headlines.cfm?c_id=1503789;GI
+New Zealand;Kapiti;Kapiti Observer;www.stuff.co.nz/dominion-post/news/local-papers/kapiti-observer/;GI
+New Zealand;Masterton;Wairarapa News;www.stuff.co.nz/dominion-post/news/local-papers/wairarapa-news/;GI
+New Zealand;Masterton;Wairarapa Times Age;times-age.co.nz/;GI
+New Zealand;Porirua;Kapi Mana News;www.stuff.co.nz/dominion-post/news/local-papers/kapi-mana-news/;GI
+New Zealand;Upper Hutt;Upper Hutt Leader;www.stuff.co.nz/dominion-post/news/local-papers/upper-hutt-leader/;GI
+New Zealand;Wainuiomata;Wainuiomata News;www.wainuiomatanews.co.nz/;GI
+New Zealand;Wellington;Capital;www.capitalmag.co.nz/;GI
+New Zealand;Wellington;Dominion Post;www.stuff.co.nz/dominion-post/;GI
+New Zealand;Wellington;Home Voice Chinese Weekly News;www.homevoice.co.nz/;ET
+New Zealand;Wellington;Regional News;www.regionalnews.kiwi/;GI
+New Zealand;Wellington;Wellingtonian;www.neighbourly.co.nz/publication/the-wellingtonian;GI
+New Zealand;Wellington (North);Independent Herald;independentherald.co.nz/;GI
+New Zealand;Wellington (South);Cook Strait News;cookstraitnews.co.nz/;GI
+New Zealand;Greymouth;Greymouth Star;www.greystar.co.nz/;GI
+New Zealand;Greymouth;West Coast Messenger;issuu.com/westcoastmessenger;GI
+New Zealand;Westport;Westport News;www.wpn.co.nz/;GI
