@@ -12,3 +12,5 @@ This GitHub repository gathers a work on it, especially :
 - Type Label Propagation according to neighbors
 - A work on the republication
 - A study of event time line 
+
+Remark : Unfortunatly the all_data, graph and the various array saved files can not be upload on git because of their size. They are all reproductible from the notebooks provided. 
