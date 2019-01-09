@@ -13,4 +13,9 @@ This GitHub repository gathers a work on it, especially :
 - A work on the republication
 - A study of event time line 
 
+The folders of this repository containes :
+- archives	: The old notebooks, showing some results showed in the report, but not always clean.
+- notebooks	: The "clean" notebooks containing a clean code and understandable.
+- reference_data : The reference data used in the notebooks (GDELT reference for country attribution, our country attribution CSV reference and the reference data for confidence and controversial websites)
+
 Remark : Unfortunatly the all_data, graph and the various array saved files can not be upload on git because of their size. They are all reproductible from the notebooks provided. 
